@@ -2,8 +2,8 @@
   <a href="https://github.com/cirillom/c-template-project" target="_blank">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true">
   </a>
-  <a href="https://github.com/cirillom/CarDemo" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=CarDemo&theme=codeSTACKr&hide_border=true">
+  <a href="https://github.com/cirillom/ParaSempreSenna" target="_blank">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=ParaSempreSenna&theme=codeSTACKr&hide_border=true">
   </a>
 </div>
 

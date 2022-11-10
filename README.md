@@ -16,7 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My programming languages  
 <div align="center">  
   <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -36,12 +36,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cirillom&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/cirillom" target="_blank">
@@ -57,9 +51,11 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=cirillom&&style=flat-square" align="center" />
+</div>  
+
+<br />

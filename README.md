@@ -9,6 +9,8 @@
 
 - 👥 Human Resources Director at [SAEComp-USP](https://www.instagram.com/saecomp.ec/)
 
+- 🎮 Game Developer at [LaSDPC-USP](http://lasdpc.icmc.usp.br/)
+
 - 🤖 Working with embedded systems for Lisa at [NRE/SEMEAR](https://github.com/Grupo-SEMEAR-USP)
 
 - 🏎️ Former Data Aquisiton Member at [EESC-USP Formula SAE](https://formula.eesc.usp.br/)

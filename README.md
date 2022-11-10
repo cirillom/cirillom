@@ -1,3 +1,7 @@
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true"></div>
+
+<br/>
+
 ### <div align="center">I'm Matheus Cirillo, a Computer Engineering 💻 undergraduate at Universidade de São Paulo and a Computer Graphics Technician 🎮 at Instituto Federal do Triângulo Mineiro</div>  
 
 - 👥 Human Resources Director at [SAEComp-USP](https://www.instagram.com/saecomp.ec/)
@@ -15,6 +19,12 @@
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cirillom&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillom&show_icons=true&theme=codeSTACKr&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
 
 ## My programming languages  
 <div align="center">  
@@ -28,15 +38,8 @@
 
 <br/>  
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cirillom&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillom&show_icons=true&theme=codeSTACKr&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/cirillom" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -51,8 +54,6 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cirillom&&style=flat-square" align="center" />

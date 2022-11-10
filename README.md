@@ -1,4 +1,7 @@
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true"></div>
+<div align="center">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=CarDemo&theme=codeSTACKr&hide_border=true">
+</div>
 
 
 ---

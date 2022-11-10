@@ -1,20 +1,17 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true"></div>
 
-<br/>
 
-### <div align="center">I'm Matheus Cirillo, a Computer Engineering 💻 undergraduate at Universidade de São Paulo and a Computer Graphics Technician 🎮 at Instituto Federal do Triângulo Mineiro</div>  
+---
+
+### <div align="center">I'm Matheus Cirillo, a Computer Engineering undergraduate 💻 at Universidade de São Paulo and a Computer Graphics Technician 🎮 at Instituto Federal do Triângulo Mineiro</div>  
+
+<br/>
 
 - 👥 Human Resources Director at [SAEComp-USP](https://www.instagram.com/saecomp.ec/)
 
 - 🤖 Working with embedded systems for Lisa at [NRE/SEMEAR](https://github.com/Grupo-SEMEAR-USP)
 
 - 🏎️ Former Data Aquisiton Member at [EESC-USP Formula SAE](https://formula.eesc.usp.br/)
-
-- 🎮 Veteran game developer
-
-- 🥇 Gold Medal: III Federal Institute Math Olympiad  
-
-- 🥉Bronze medal: Brazilian Public School Math Olympiad  
   
 
 <br/>  

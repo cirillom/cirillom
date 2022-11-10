@@ -3,7 +3,10 @@
 
 ---
 
-### <div align="center">I'm Matheus Cirillo, a Computer Engineering undergraduate 💻 at Universidade de São Paulo and a Computer Graphics Technician 🎮 at Instituto Federal do Triângulo Mineiro</div>  
+### <div align="center">Hi 👋🏻, I'm Matheus Cirillo</div>  
+
+#### <div align="center"> 💻 Computer Engineering undergrad at Universidade de São Paulo </div>
+#### <div align="center"> 🎮 Computer Graphics Technician at Instituto Federal do Triângulo Mineiro </div>
 
 <br/>
 
@@ -18,23 +21,34 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cirillom&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cirillom&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true" align="center" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillom&show_icons=true&theme=codeSTACKr&hide_border=true&layout=compact" align="center" />
+</div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillom&show_icons=true&theme=codeSTACKr&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
 
-<br/>  
+<!---
+https://github.com/Ileriayo/markdown-badges#badges
+-->
 
-## My programming languages  
-<div align="center">  
-  <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
+## My tools
 
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white")
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+ </div>
 <br/>  
 
 ---

@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/cirillom/c-template-project" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=c-template-project&theme=codeSTACKr&hide_border=true&PAT_1">
   </a>
   <a href="https://github.com/cirillom/ParaSempreSenna" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=ParaSempreSenna&theme=codeSTACKr&hide_border=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=cirillom&repo=ParaSempreSenna&theme=codeSTACKr&hide_border=true&PAT_1">
   </a>
 </div>
 
@@ -27,8 +27,8 @@
 <br/>  
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cirillom&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true" align="center" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillom&show_icons=true&theme=codeSTACKr&hide_border=true&layout=compact" align="center" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cirillom&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true&PAT_1" align="center" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillom&show_icons=true&theme=codeSTACKr&hide_border=true&layout=compact&PAT_1" align="center" />
 </div>  
 
 <br/>

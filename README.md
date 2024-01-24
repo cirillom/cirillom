@@ -17,7 +17,9 @@
 
 <br/>
 
-- 🎮 Game Developer at [LaSDPC-USP](http://lasdpc.icmc.usp.br/)
+- 👨🏻‍💻 Embedded Systems Intern at [AnimallTAG](https://www.br.animalltag.com/)
+
+- 🎮 Former Game Developer at [LaSDPC-USP](http://lasdpc.icmc.usp.br/)
 
 - 🏎️ Former Data Aquisiton Member at [EESC-USP Formula SAE](https://formula.eesc.usp.br/)
 
@@ -40,6 +42,7 @@ https://github.com/Ileriayo/markdown-badges#badges
 ## My tools
 
 <div align="center">
+  <img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
